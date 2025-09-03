@@ -1,3 +1,4 @@
+em xin mô tả cấu trúc giao diện theo câu trúc cây bên dưới:
 root
  ├── frame (chứa 2 bàn cờ, trái và phải)
  │     ├── canvas_left
